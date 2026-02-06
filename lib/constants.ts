@@ -214,6 +214,6 @@ export const ABOUT_CONTENT = {
 
 export const CONTACT_INFO = {
   email: "helen.ham@example.com",
-  linkedin: "https://www.linkedin.com/in/helenham",
+  linkedin: "https://www.linkedin.com/in/helen-ham",
   location: "Vancouver, BC",
 };
